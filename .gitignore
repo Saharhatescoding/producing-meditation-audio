@@ -1,0 +1,5 @@
+__pycache__/
+*.work/
+*.parts/
+.DS_Store
+.env
